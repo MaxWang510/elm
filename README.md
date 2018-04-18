@@ -1,6 +1,6 @@
 # elm(饿了么移动端单页应用)
 
-> 这是一个基于Vue2.0实现的饿了么移动端webapp
+> 这是一个基于Vue2.0实现的饿了么移动端webapp,参照[视频](http://coding.imooc.com/class/74.html)实现的，用了vue2.0版本
 
 > 项目地址：[elm](https://github.com/MaxWang510/elm)
 
@@ -31,6 +31,6 @@ npm run build
 
 > 用到的技术栈
 
-vue2.0 + vue-router + webpack + vue-cli + axios + stylus + flex
+vue2.0 + vue-router + webpack + vue-cli + axios + stylus + flex 
 
 
